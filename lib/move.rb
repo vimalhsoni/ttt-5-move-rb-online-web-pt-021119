@@ -14,10 +14,10 @@ def input_to_index(user_input)
   return index
 end
 
-def update_array_at_with(array, index, value)
- array[index]=value
+#def update_array_at_with(array, index, value)
+ #array[index]=value
   #return array
-end
+#end
 
 def move(board, index, character = "X")
   #binding.pry
