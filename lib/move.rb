@@ -22,5 +22,5 @@ end
 def move(board, index, character = "X")
   #binding.pry
   board[index] = character
-  return board
+  #return board
 end
